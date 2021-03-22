@@ -121,8 +121,7 @@ function buildCharts(sample) {
       hovermode: 'closest',
       plot_bgcolor: "darksalmon",
       paper_bgcolor: "darksalmon"
-      // autosize: false,
-      // margin: {aurtoexpand: false}
+
   };
     var config = {responsive: true}
     // 3. Use Plotly to plot the data with the layout.
